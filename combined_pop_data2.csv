@@ -1,0 +1,227 @@
+c_id,iso3,country,pop_thousands,pop_prob,sex_ratio,male_ratio,median_age,c_id-2,country-2,sub15,sub65,65plus,region
+1,AFG,Afghanistan,41455,0.0051249,101.9,0.5,16.9,1, Afghanistan,0.398,0.574,0.029,Asia
+2,ALB,Albania,2812,0.0003476,97.8,0.49,36.3,2, Albania,0.179,0.675,0.146,Europe
+3,DZA,Algeria,46164,0.0057071,104.1,0.51,28.2,3, Algeria,0.288,0.643,0.069,Africa
+4,ASM,American Samoa,48,0.0000059,102,0.51,28.4,4, American Samoa,0.259,0.659,0.082,Oceania
+5,AND,Andorra,81,0.00001,104.7,0.51,43.2,5, Andorra,0.123,0.682,0.195,Europe
+6,AGO,Angola,36750,0.0045433,97.9,0.49,16.5,6, Angola,0.472,0.505,0.023,Africa
+7,AIA,Anguilla,14,0.0000018,94.5,0.49,38,7, Anguilla,0.21,0.679,0.111,North America
+8,ATG,Antigua and Barbuda,93,0.0000115,90.8,0.48,35.5,8, Antigua and Barbuda,0.22,0.679,0.101,North America
+9,ARG,Argentina,45538,0.0056297,98.5,0.5,32.1,9, Argentina,0.185,0.684,0.131,South America
+10,ARM,Armenia,2943,0.0003639,86.5,0.46,35.8,10, Armenia,0.18,0.675,0.145,Europe
+11,ABW,Aruba,108,0.0000133,89.5,0.47,41,11, Aruba (Netherlands),0.173,0.661,0.166,North America
+12,AUS,Australia,26451,0.0032701,98.5,0.5,37.8,12, Australia,0.185,0.649,0.166,Oceania
+13,AUT,Austria,9130,0.0011288,96.9,0.49,43.1,13, Austria,0.141,0.651,0.208,Europe
+14,AZE,Azerbaijan,10318,0.0012756,96.1,0.49,32.6,14, Azerbaijan,0.218,0.696,0.086,Asia
+15,BHS,Bahamas,399,0.0000494,91.5,0.48,34.6,15, Bahamas,0.214,0.688,0.098,North America
+16,BHR,Bahrain,1570,0.0001941,163.7,0.62,32.9,16, Bahrain,0.181,0.778,0.04,Asia
+17,BGD,Bangladesh,171467,0.0211978,96.8,0.49,25.3,17, Bangladesh,0.254,0.671,0.075,Asia
+18,BRB,Barbados,282,0.0000349,92.1,0.48,38.9,18, Barbados,0.168,0.676,0.157,North America
+19,BLR,Belarus,9116,0.0011269,87.3,0.47,40.5,19, Belarus,0.158,0.668,0.174,Europe
+20,BEL,Belgium,11713,0.001448,97.2,0.49,41.4,20, Belgium,0.17,0.631,0.199,Europe
+21,BLZ,Belize,411,0.0000508,101.9,0.5,25.9,21, Belize,0.309,0.642,0.049,North America
+22,BEN,Benin,14111,0.0017445,100.5,0.5,17.8,22, Benin,0.454,0.522,0.025,Africa
+23,BMU,Bermuda,65,0.000008,95.9,0.49,45.1,23, Bermuda,0.165,0.617,0.219,North America
+24,BTN,Bhutan,786,0.0000972,115,0.53,29.4,24, Bhutan,0.235,0.7,0.065,Asia
+25,BOL,Bolivia (Plurinational State of),12244,0.0015137,100.4,0.5,24.7,25, Bolivia,0.291,0.64,0.068,South America
+26,BIH,Bosnia and Herzegovina,3185,0.0003938,90.7,0.48,44.9,26, Bosnia and Herzegovina,0.131,0.69,0.179,Europe
+27,BWA,Botswana,2480,0.0003066,99.5,0.5,22.9,27, Botswana,0.292,0.649,0.06,Africa
+28,BRA,Brazil,211141,0.0261025,96.9,0.49,33.9,28, Brazil,0.192,0.698,0.11,South America
+29,VGB,British Virgin Islands,39,0.0000048,89.5,0.47,37.5,29, British Virgin Islands,0.166,0.719,0.116,North America
+30,BRN,Brunei Darussalam,459,0.0000567,113.4,0.53,31.8,30, Brunei,0.218,0.711,0.071,Asia
+31,BGR,Bulgaria,6796,0.0008401,93.8,0.48,44.3,31, Bulgaria,0.14,0.652,0.208,Europe
+32,BFA,Burkina Faso,23026,0.0028466,99.2,0.5,17.3,32, Burkina Faso,0.422,0.546,0.032,Africa
+33,BDI,Burundi,13689,0.0016924,98.7,0.5,15.9,33, Burundi,0.427,0.54,0.033,Africa
+34,CPV,Cabo Verde,522,0.0000646,103.5,0.51,27.9,34, Cambodia,0.295,0.654,0.051,Africa
+35,KHM,Cambodia,17424,0.002154,96,0.49,25.8,35, Cameroon,0.417,0.551,0.032,Asia
+36,CMR,Cameroon,28373,0.0035076,99.4,0.5,17.8,36, Canada,0.157,0.635,0.209,Africa
+37,CAN,Canada,39299,0.0048584,98.6,0.5,40.3,37, Cape Verde,0.267,0.672,0.061,North America
+38,CYM,Cayman Islands,73,0.000009,100.9,0.5,37.9,38, Cayman Islands,0.175,0.665,0.16,North America
+39,CAF,Central African Republic,5152,0.000637,91.9,0.48,14.3,39, Central African Republic,0.388,0.577,0.035,Africa
+40,TCD,Chad,19319,0.0023883,100.7,0.5,15.4,40, Chad,0.462,0.513,0.025,Africa
+41,CHL,Chile,19659,0.0024303,98.8,0.5,36,41, Chile,0.19,0.673,0.137,South America
+42,CHN,China,1422585,0.1758688,104,0.51,39.1,42, China,0.165,0.694,0.141,Asia
+43,COL,Colombia,52321,0.0064683,97.4,0.49,31.6,43, Colombia,0.235,0.667,0.099,South America
+44,COM,Comoros,850,0.0001051,101.2,0.5,20.3,44, Comoros,0.335,0.62,0.046,Africa
+45,COK,Cook Islands,14,0.0000018,96.3,0.49,35.1,45, Cook Islands,0.184,0.662,0.153,Oceania
+46,CRI,Costa Rica,5106,0.0006312,97.7,0.49,34.1,46, Costa Rica,0.215,0.686,0.099,North America
+47,HRV,Croatia,3896,0.0004817,93.1,0.48,44.8,47, Croatia,0.14,0.634,0.226,Europe
+48,CUB,Cuba,11020,0.0013624,97.5,0.49,41.7,48, Cuba,0.164,0.668,0.168,North America
+49,CUW,Curacao,185,0.0000229,90.7,0.48,38.2,49, Curaçao,0.193,0.627,0.18,North America
+50,CYP,Cyprus,1345,0.0001663,101.5,0.5,37.8,50, Cyprus,0.156,0.704,0.14,Europe
+51,CZE,Czechia,10810,0.0013364,97.3,0.49,42.7,51, Czech Republic,0.147,0.642,0.211,Europe
+52,COD,Democratic Republic of the Congo,105790,0.0130784,98.5,0.5,15.8,52, Democratic Republic of the Congo,0.46,0.515,0.025,Africa
+53,DNK,Denmark,5948,0.0007353,98.8,0.5,41.2,53, Denmark,0.162,0.631,0.206,Europe
+54,DJI,Djibouti,1153,0.0001425,98.3,0.5,24.4,54, Djibouti,0.287,0.672,0.042,A
+55,DMA,Dominica,67,0.0000082,100.3,0.5,35.6,55, Dominica,0.208,0.658,0.134,North America
+56,DOM,Dominican Republic,11331,0.0014008,98.9,0.5,27.7,56, Dominican Republic,0.259,0.671,0.07,North America
+57,ECU,Ecuador,17980,0.0022228,99.4,0.5,28.4,57, Ecuador,0.245,0.664,0.091,South America
+58,EGY,Egypt,114536,0.0141596,102,0.5,24,58, Egypt,0.344,0.603,0.054,Africa
+59,SLV,El Salvador,6310,0.00078,90.5,0.48,27,59, El Salvador,0.254,0.664,0.082,North America
+60,GNQ,Equatorial Guinea,1848,0.0002284,111.7,0.53,21,60, Equatorial Guinea,0.361,0.59,0.049,Africa
+61,ERI,Eritrea,3470,0.000429,97.4,0.49,18.7,61, Eritrea,0.363,0.597,0.04,Africa
+62,EST,Estonia,1367,0.000169,90.5,0.47,41.9,62, Estonia,0.156,0.623,0.222,Europe
+63,SWZ,Eswatini,1231,0.0001521,96.4,0.49,22,63, Eswatini (Swaziland),0.322,0.639,0.04,Africa
+64,ETH,Ethiopia,128692,0.0159097,100.4,0.5,18.7,64, Ethiopia,0.389,0.576,0.035,Africa
+65,FRO,Faroe Islands,55,0.0000068,107.1,0.52,37.3,65, Faroe Islands,0.199,0.619,0.182,Europe
+66,FJI,Fiji,924,0.0001142,98.5,0.5,27.7,66, Fiji,0.252,0.663,0.085,Oceania
+67,FIN,Finland,5601,0.0006925,97.7,0.49,42.8,67, Finland,0.163,0.605,0.233,Europe
+68,FRA,France,66439,0.0082136,94.1,0.48,41.8,68, France,0.18,0.605,0.214,Europe
+69,PYF,French Polynesia,281,0.0000348,102.4,0.51,34.8,69, French Polynesia,0.206,0.688,0.106,Oceania
+70,GAB,Gabon,2485,0.0003072,103.2,0.51,21.5,70, Gabon,0.35,0.608,0.042,Africa
+71,GMB,Gambia,2698,0.0003335,99.2,0.5,18.2,71, Gambia,0.389,0.576,0.036,Africa
+72,GEO,Georgia,3807,0.0004707,87.3,0.47,36.8,72, Georgia,0.184,0.637,0.18,Asia
+73,DEU,Germany,84548,0.0104524,97.5,0.49,45.1,73, Germany,0.138,0.63,0.233,Europe
+74,GHA,Ghana,33788,0.0041771,99.8,0.5,20.9,74, Ghana,0.377,0.579,0.044,Africa
+75,GIB,Gibraltar,38,0.0000048,99.1,0.5,38.9,75, Gibraltar,0.2,0.626,0.174,Europe
+76,GRC,Greece,10243,0.0012663,93.9,0.48,45.7,76, Greece,0.14,0.627,0.233,Europe
+77,GRL,Greenland,56,0.0000069,111.2,0.53,34.2,77, Greenland,0.205,0.677,0.119,North America
+78,GRD,Grenada,117,0.0000145,100.7,0.5,33.4,78, Grenada,0.222,0.655,0.123,North America
+79,GUM,Guam,167,0.0000206,102.8,0.51,31.1,79, Guam (US),0.266,0.629,0.105,Oceania
+80,GTM,Guatemala,18125,0.0022407,98.4,0.5,22.6,80, Guatemala,0.32,0.628,0.052,North America
+81,GGY,Guernsey,64,0.0000079,97.8,0.49,44,81, Guernsey,0.144,0.645,0.211,Europe
+82,GIN,Guinea,14405,0.0017809,97.8,0.49,18,82, Guinea,0.41,0.551,0.04,Africa
+83,GNB,Guinea-Bissau,2153,0.0002662,97.6,0.49,18.9,83, Guinea-Bissau,0.425,0.544,0.031,Africa
+84,GUY,Guyana,826,0.0001022,94.9,0.49,25.6,84, Guyana,0.237,0.685,0.079,Africa
+85,HTI,Haiti,11637,0.0014387,98.1,0.5,23.5,85, Haiti,0.297,0.658,0.046,North America
+86,HND,Honduras,10645,0.001316,101.4,0.5,23.5,86, Honduras,0.279,0.662,0.059,North America
+87,HKG,Hong Kong SAR,7443,0.0009201,82.1,0.45,46.2,87, Hong Kong,0.13,0.66,0.209,Asia
+88,HUN,Hungary,9686,0.0011975,92.3,0.48,43.3,88, Hungary,0.142,0.64,0.218,Europe
+89,ISL,Iceland,388,0.0000479,104.9,0.51,35.8,89, Iceland,0.2,0.634,0.166,Europe
+90,IND,India,1438070,0.1777831,106.6,0.52,28.1,90, India,0.245,0.687,0.068,Asia
+91,IDN,Indonesia,281190,0.0347625,100.9,0.5,29.8,91, Indonesia,0.246,0.677,0.077,Asia
+92,IRN,Iran (Islamic Republic of),90609,0.0112016,103.4,0.51,32.9,92, Iran,0.235,0.698,0.067,Asia
+93,IRQ,Iraq,45074,0.0055723,100.7,0.5,20.3,93, Iraq,0.352,0.612,0.036,Asia
+94,IRL,Ireland,5197,0.0006424,98,0.5,38.4,94, Ireland,0.204,0.65,0.146,Europe
+95,IMN,Isle of Man,84,0.0000104,98.1,0.5,45.7,95, Isle of Man,0.162,0.621,0.218,Europe
+96,ISR,Israel,9256,0.0011443,99.1,0.5,29.2,96, Israel,0.255,0.617,0.129,Asia
+97,ITA,Italy,59499,0.0073557,95.5,0.49,47.5,97, Italy,0.121,0.646,0.233,Europe
+98,CIV,Ivory Coast,31166,0.0038529,103.8,0.51,18.1,98, Ivory Coast,0.367,0.604,0.03,Africa
+99,JAM,Jamaica,2840,0.0003511,97.9,0.49,31.7,99, Jamaica,0.241,0.658,0.101,North America
+100,JPN,Japan,124371,0.0153755,95.3,0.49,49,100, Japan,0.123,0.585,0.292,Asia
+101,JEY,Jersey,104,0.0000128,97.5,0.49,43.1,101, Jersey,0.169,0.652,0.179,Europe
+102,JOR,Jordan,11439,0.0014142,106.6,0.52,24.3,102, Jordan,0.314,0.645,0.041,Asia
+103,KAZ,Kazakhstan,20330,0.0025133,94.9,0.49,29.5,103, Kazakhstan,0.253,0.653,0.094,Asia
+104,KEN,Kenya,55339,0.0068414,98.9,0.5,19.5,104, Kenya,0.365,0.603,0.033,Africa
+105,KIR,Kiribati,133,0.0000164,94,0.48,22.7,105, Kiribati,0.271,0.678,0.052,Oceania
+106,UNK,Kosovo (under UNSC res. 1244),1700,0.0002102,96.8,0.49,31.4,106, Kosovo,0.231,0.688,0.082,Europe
+107,KWT,Kuwait,4839,0.0005982,157.4,0.61,34.5,107, Kuwait,0.233,0.733,0.034,Asia
+108,KGZ,Kyrgyzstan,7074,0.0008745,97.8,0.49,25.1,108, Kyrgyzstan,0.295,0.639,0.066,Asia
+109,LAO,Lao People's Democratic Republic,7665,0.0009476,101,0.5,24.3,109, Laos,0.306,0.647,0.047,Asia
+110,LVA,Latvia,1882,0.0002327,86.3,0.46,43.1,110, Latvia,0.149,0.634,0.217,Europe
+111,LBN,Lebanon,5773,0.0007138,94.6,0.49,28.3,111, Lebanon,0.192,0.717,0.091,Asia
+112,LSO,Lesotho,2311,0.0002858,94.9,0.49,21.4,112, Lesotho,0.324,0.622,0.054,Africa
+113,LBR,Liberia,5493,0.0006791,99.6,0.5,18.4,113, Liberia,0.427,0.545,0.028,Africa
+114,LBY,Libya,7306,0.0009032,103.4,0.51,27.2,114, Libya,0.328,0.628,0.044,Africa
+115,LIE,Liechtenstein,40,0.0000049,98.7,0.5,44.2,115, Liechtenstein,0.153,0.644,0.204,Europe
+116,LTU,Lithuania,2854,0.0003528,89.2,0.47,42.1,116, Lithuania,0.153,0.631,0.216,Europe
+117,LUX,Luxembourg,665,0.0000822,101.3,0.5,38.9,117, Luxembourg,0.167,0.674,0.159,Europe
+118,MAC,Macao SAR,714,0.0000883,85.6,0.46,38.3,118, Macau,0.144,0.707,0.149,Asia
+119,MDG,Madagascar,31196,0.0038566,100.6,0.5,18.9,119, Madagascar,0.375,0.587,0.038,Africa
+120,MWI,Malawi,21104,0.0026091,95.2,0.49,17.6,120, Malawi,0.385,0.576,0.038,Africa
+121,MYS,Malaysia,35126,0.0043425,110.1,0.52,30.1,121, Malaysia,0.225,0.694,0.081,Asia
+122,MDV,Maldives,526,0.000065,163.8,0.62,31.1,122, Maldives,0.223,0.72,0.058,Asia
+123,MLI,Mali,23769,0.0029385,101.9,0.5,15.5,123, Mali,0.471,0.499,0.031,Africa
+124,MLT,Malta,533,0.0000659,107.9,0.52,40.3,124, Malta,0.145,0.628,0.227,Europe
+125,MHL,Marshall Islands,39,0.0000048,105.2,0.51,20.7,125, Marshall Islands,0.307,0.638,0.055,Oceania
+126,MRT,Mauritania,5022,0.0006209,96.2,0.49,17.1,126, Mauritania,0.361,0.596,0.043,Africa
+127,MUS,Mauritius,1274,0.0001574,99.9,0.5,36.9,127, Mauritius,0.153,0.714,0.134,Africa
+128,MEX,Mexico,129740,0.0160392,94.2,0.49,28.9,128, Mexico,0.238,0.682,0.08,North America
+129,FSM,Micronesia (Fed. States of),113,0.0000139,98.8,0.5,22.9,129," Micronesia, Federated States of ",0.274,0.671,0.055,Oceania
+130,MDA,Moldova,3067,0.0003792,85.3,0.46,37.8,130, Moldova,0.18,0.664,0.156,Europe
+131,MCO,Monaco,39,0.0000048,95.9,0.49,54.4,131, Monaco,0.094,0.544,0.362,Europe
+132,MNG,Mongolia,3432,0.0004243,99.6,0.5,26.8,132, Mongolia,0.262,0.682,0.056,Asia
+133,MNE,Montenegro,634,0.0000783,92.8,0.48,39.3,133, Montenegro,0.179,0.647,0.174,Europe
+134,MSR,Montserrat,4,0.0000005,99.7,0.5,41.5,134, Montserrat,0.159,0.766,0.075,North America
+135,MAR,Morocco,37713,0.0046623,101.8,0.5,29.2,135, Morocco,0.26,0.659,0.081,Africa
+136,MOZ,Mozambique,33635,0.0041582,94.1,0.48,16.3,136, Mozambique,0.45,0.521,0.029,Africa
+137,MMR,Myanmar,54134,0.0066924,99.2,0.5,29.5,137, Myanmar,0.249,0.683,0.068,Asia
+138,NAM,Namibia,2963,0.0003663,95.5,0.49,21,138, Namibia,0.344,0.617,0.039,Africa
+139,NRU,Nauru,12,0.0000015,103.8,0.51,20.4,139, Nauru,0.301,0.657,0.042,Oceania
+140,NPL,Nepal,29695,0.003671,92.6,0.48,24.7,140, Nepal,0.263,0.675,0.062,Asia
+141,NLD,Netherlands,18093,0.0022367,98.7,0.5,41.4,141, Netherlands,0.161,0.631,0.209,Europe
+142,NCL,New Caledonia,290,0.0000358,97.3,0.49,33.9,142, New Caledonia,0.21,0.685,0.106,Oceania
+143,NZL,New Zealand,5173,0.0006395,98.7,0.5,37.3,143, New Zealand,0.192,0.644,0.165,Oceania
+144,NIC,Nicaragua,6824,0.0008436,96.8,0.49,25.3,144, Nicaragua,0.242,0.694,0.065,North America
+145,NER,Niger,26160,0.003234,103.1,0.51,15.3,145, Niger,0.495,0.478,0.027,Africa
+146,NGA,Nigeria,227883,0.0281723,102.2,0.51,17.8,146, Nigeria,0.407,0.56,0.034,Africa
+147,PRK,North Korea,26418,0.003266,97.7,0.49,36,147, North Korea,0.202,0.692,0.106,Asia
+148,MKD,North Macedonia,1832,0.0002265,94.7,0.49,40.3,148, North Macedonia,0.161,0.687,0.153,Europe
+149,MNP,Northern Mariana Islands,45,0.0000056,111.5,0.53,36.1,149, Northern Mariana Islands,0.226,0.68,0.094,Oceania
+150,NOR,Norway,5519,0.0006823,101.6,0.5,39.5,150, Norway,0.178,0.64,0.182,Europe
+151,OMN,Oman,5049,0.0006242,163.7,0.62,29.3,151, Oman,0.299,0.662,0.04,Asia
+152,PAK,Pakistan,247504,0.030598,103.3,0.51,20.3,152, Pakistan,0.348,0.604,0.048,Asia
+153,PLW,Palau,18,0.0000022,116.9,0.54,37.8,153, Palau,0.175,0.718,0.107,Oceania
+154,PSE,Palestine,5409,0.0006687,98.8,0.5,19.8,154, Palestine,0.341,0.619,0.04,Asia
+155,PAN,Panama,4459,0.0005512,100,0.5,29.6,155, Panama,0.252,0.649,0.099,North America
+156,PNG,Papua New Guinea,10390,0.0012844,106.1,0.51,22.3,156, Papua New Guinea,0.373,0.588,0.039,Oceania
+157,PRY,Paraguay,6844,0.0008461,100.6,0.5,26.3,157, Paraguay,0.224,0.685,0.091,South America
+158,PER,Peru,33846,0.0041842,99,0.5,29.5,158, Peru,0.26,0.659,0.08,South America
+159,PHL,Philippines,114891,0.0142036,99.5,0.5,25.3,159, Philippines,0.305,0.641,0.055,Asia
+160,POL,Poland,38763,0.0047921,94,0.48,41.3,160, Poland,0.145,0.649,0.206,Europe
+161,PRT,Portugal,10431,0.0012895,91,0.48,46.2,161, Portugal,0.129,0.652,0.22,Europe
+162,PRI,Puerto Rico,3242,0.0004008,89.1,0.47,45.3,162, Puerto Rico (US),0.128,0.63,0.242,North America
+163,QAT,Qatar,2979,0.0003683,251.1,0.72,33.2,163, Qatar,0.131,0.855,0.014,Asia
+164,COG,Republic of Congo,6183,0.0007644,100,0.5,18.3,164, Republic of the Congo,0.404,0.562,0.034,Africa
+165,ROU,Romania,19118,0.0023635,93.9,0.48,42.6,165, Romania,0.156,0.621,0.222,Europe
+166,RUS,Russian Federation,145441,0.0179803,86.7,0.46,39.5,166, Russia,0.173,0.658,0.169,Europe
+167,RWA,Rwanda,13954,0.0017251,95.1,0.49,19.4,167, Rwanda,0.38,0.591,0.03,Africa
+168,BLM,Saint Barthelemy,11,0.0000014,88.1,0.47,38.8,168, Saint Barthelemy,0.141,0.638,0.221,North America
+169,SHN,Saint Helena,5,0.0000007,100.3,0.5,50.5,169," Saint Helena, Ascension, and Tristan da Cunha",0.145,0.669,0.187,Africa
+170,KNA,Saint Kitts and Nevis,47,0.0000058,92,0.48,35.3,170, Saint Kitts and Nevis,0.194,0.685,0.121,North America
+171,LCA,Saint Lucia,179,0.0000222,97.7,0.49,33.7,171, Saint Lucia,0.182,0.67,0.148,North America
+172,MAF,Saint Martin (French part),28,0.0000034,87.7,0.47,39.4,172, Saint Martin,0.249,0.647,0.105,North America
+173,SPM,Saint Pierre and Miquelon,6,0.0000007,97.8,0.49,46.4,173, Saint Pierre and Miquelon,0.134,0.62,0.246,North America
+174,VCT,Saint Vincent and the Grenadines,101,0.0000125,104,0.51,33.9,174, Saint Vincent and the Grenadines,0.191,0.686,0.124,North America
+175,WSM,Samoa,217,0.0000268,101.4,0.5,19.9,175, Samoa,0.273,0.657,0.069,Oceania
+176,SMR,San Marino,34,0.0000042,96.7,0.49,47.4,176, San Marino,0.143,0.646,0.211,Europe
+177,STP,Sao Tome and Principe,231,0.0000285,98.9,0.5,19.1,177, São Tomé and Príncipe,0.372,0.596,0.032,Africa
+178,SAU,Saudi Arabia,33264,0.0041123,154.2,0.61,29.2,178, Saudi Arabia,0.235,0.724,0.042,Asia
+179,SEN,Senegal,18078,0.0022349,103.6,0.51,19.1,179, Senegal,0.412,0.555,0.033,Africa
+180,SRB,Serbia,6773,0.0008373,90.4,0.47,43.9,180, Serbia,0.145,0.658,0.197,Europe
+181,SYC,Seychelles,128,0.0000158,123.1,0.55,33.7,181, Seychelles,0.18,0.726,0.095,Africa
+182,SLE,Sierra Leone,8461,0.0010459,99.5,0.5,19.3,182, Sierra Leone,0.405,0.569,0.026,Africa
+183,SGP,Singapore,5789,0.0007157,107,0.52,35.1,183, Singapore,0.148,0.715,0.137,Asia
+184,SXM,Sint Maarten (Dutch part),43,0.0000053,95.1,0.49,41.6,184, Sint Maarten,0.185,0.672,0.143,Oceania
+185,SVK,Slovakia,5518,0.0006822,95.4,0.49,41.3,185, Slovakia,0.149,0.665,0.186,Europe
+186,SVN,Slovenia,2118,0.0002619,100.9,0.5,43.9,186, Slovenia,0.146,0.627,0.227,Europe
+187,SLB,Solomon Islands,800,0.0000989,104.6,0.51,20.3,187, Solomon Islands,0.311,0.638,0.051,Oceania
+188,SOM,Somalia,18359,0.0022696,100.4,0.5,15.4,188, Somalia,0.415,0.558,0.027,Africa
+189,ZAF,South Africa,63212,0.0078147,94.7,0.49,28.2,189, South Africa,0.275,0.661,0.064,Africa
+190,KOR,South Korea,51749,0.0063975,99.7,0.5,44.5,190, South Korea,0.113,0.694,0.193,Asia
+191,SSD,South Sudan,11483,0.0014196,96.8,0.49,18,191, South Sudan,0.419,0.555,0.026,Africa
+192,ESP,Spain,47912,0.0059231,96.5,0.49,44.9,192, Spain,0.134,0.661,0.205,Europe
+193,LKA,Sri Lanka,22972,0.0028399,93.8,0.48,32.8,193, Sri Lanka,0.22,0.662,0.118,Asia
+194,SDN,Sudan,50043,0.0061866,98.4,0.5,18.3,194, Sudan,0.405,0.564,0.032,Africa
+195,SUR,Suriname,629,0.0000777,99.9,0.5,28.1,195, Suriname,0.228,0.7,0.073,South America
+196,SWE,Sweden,10551,0.0013044,101.4,0.5,39.9,196, Sweden,0.173,0.621,0.207,Europe
+197,CHE,Switzerland,8871,0.0010966,98.7,0.5,42.3,197, Switzerland,0.155,0.651,0.194,Europe
+198,SYR,Syrian Arab Republic,23595,0.0029169,100,0.5,22.2,198, Syria,0.333,0.626,0.042,Asia
+199,TWN,Taiwan Province of China,23317,0.0028826,98.2,0.5,43.5,199, Taiwan,0.122,0.697,0.181,Asia
+200,TJK,Tajikistan,10390,0.0012845,96.5,0.49,21.9,200, Tajikistan,0.3,0.658,0.042,Asia
+201,TZA,Tanzania,66618,0.0082357,98.2,0.5,17.2,201, Tanzania,0.415,0.552,0.034,Africa
+202,THA,Thailand,71702,0.0088643,95.1,0.49,39.7,202, Thailand,0.16,0.695,0.145,Asia
+203,TLS,Timor-Leste,1384,0.0001711,101.6,0.5,21,203, Timor-Leste,0.391,0.566,0.043,Asia
+204,TGO,Togo,9304,0.0011503,101.3,0.5,18.8,204, Togo,0.39,0.568,0.043,Africa
+205,TON,Tonga,105,0.0000129,90.2,0.47,20.7,205, Tonga,0.299,0.628,0.073,Oceania
+206,TTO,Trinidad and Tobago,1503,0.0001858,97.8,0.49,36.7,206, Trinidad and Tobago,0.19,0.674,0.136,North America
+207,TUN,Tunisia,12200,0.0015083,97.8,0.49,32.1,207, Tunisia,0.248,0.653,0.1,Africa
+208,TUR,Türkiye,87271,0.0107889,99.7,0.5,32.5,208, Turkey,0.221,0.686,0.093,Asia
+209,TKM,Turkmenistan,7364,0.0009104,96.2,0.49,26.2,209, Turkmenistan,0.246,0.688,0.066,Asia
+210,YCA,Turks and Caicos Islands,46,0.0000057,100.3,0.5,38.3,210, Turks and Caicos Islands,0.207,0.732,0.061,North America
+211,TUV,Tuvalu,10,0.0000012,104.7,0.51,24.3,211, Tuvalu,0.293,0.633,0.074,Oceania
+212,UGA,Uganda,48657,0.0060152,98.3,0.5,16.5,212, Uganda,0.473,0.503,0.024,Africa
+213,UKR,Ukraine,37733,0.0046648,86.9,0.46,42,213, Ukraine,0.153,0.663,0.185,Europe
+214,ARE,United Arab Emirates,10642,0.0013156,177.9,0.64,31.2,214, United Arab Emirates,0.162,0.818,0.02,Asia
+215,GBR,United Kingdom,68683,0.008491,97,0.49,39.8,215, United Kingdom,0.173,0.634,0.193,Europe
+216,USA,United States of America,343477,0.0424628,101,0.5,38,216, United States,0.178,0.635,0.187,North America
+217,VIR,US Virgin Islands,86,0.0000106,91.5,0.48,44.7,217, Uruguay,0.19,0.656,0.154,South America
+218,URY,Uruguay,3388,0.0004189,94.2,0.48,35.8,218, US Virgin Islands (US),0.191,0.6,0.209,North America
+219,UZB,Uzbekistan,35652,0.0044076,101.8,0.5,26.9,219, Uzbekistan,0.225,0.706,0.069,Asia
+220,VUT,Vanuatu,320,0.0000396,102,0.5,20.1,220, Vanuatu,0.317,0.634,0.049,Oceania
+221,VEN,Venezuela (Bolivarian Republic of),28301,0.0034987,97.7,0.49,29,221, Venezuela,0.251,0.66,0.089,South America
+222,VNM,Viet Nam,100352,0.0124062,96,0.49,32.4,222, Vietnam,0.234,0.687,0.079,Asia
+223,WLF,Wallis and Futuna Islands,11,0.0000014,91.1,0.48,37.2,223, Wallis and Futuna,0.2,0.679,0.122,Oceania
+224,YEM,Yemen,39391,0.0048697,102.6,0.51,18.2,224, Yemen,0.351,0.615,0.033,Asia
+225,ZMB,Zambia,20724,0.002562,98,0.49,17.5,225, Zambia,0.425,0.548,0.027,Africa
+226,ZWE,Zimbabwe,16341,0.0020202,90.9,0.48,17.8,226, Zimbabwe,0.382,0.573,0.045,Africa
