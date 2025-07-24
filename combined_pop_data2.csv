@@ -52,7 +52,7 @@ c_id,iso3,country,pop_thousands,pop_prob,sex_ratio,male_ratio,median_age,c_id-2,
 51,CZE,Czechia,10810,0.0013364,97.3,0.49,42.7,51, Czech Republic,0.147,0.642,0.211,Europe
 52,COD,Democratic Republic of the Congo,105790,0.0130784,98.5,0.5,15.8,52, Democratic Republic of the Congo,0.46,0.515,0.025,Africa
 53,DNK,Denmark,5948,0.0007353,98.8,0.5,41.2,53, Denmark,0.162,0.631,0.206,Europe
-54,DJI,Djibouti,1153,0.0001425,98.3,0.5,24.4,54, Djibouti,0.287,0.672,0.042,A
+54,DJI,Djibouti,1153,0.0001425,98.3,0.5,24.4,54, Djibouti,0.287,0.672,0.042,Africa
 55,DMA,Dominica,67,0.0000082,100.3,0.5,35.6,55, Dominica,0.208,0.658,0.134,North America
 56,DOM,Dominican Republic,11331,0.0014008,98.9,0.5,27.7,56, Dominican Republic,0.259,0.671,0.07,North America
 57,ECU,Ecuador,17980,0.0022228,99.4,0.5,28.4,57, Ecuador,0.245,0.664,0.091,South America
