@@ -9,6 +9,8 @@ import json
 #from .models import globaldata
 
 #Include functions from Jupyter Notebook
+color_map = {'Asia':'#74C476', 'Africa':'#6BAED6', 'Europe':'#9E9E9E', 'North America': '#FD8D3C', 'South America': '#B39DDB', 'Oceania': '#FDD49E'}
+color_map2 = {'Child (<15)': 'mistyrose','Adult (16-65)': 'darksalmon','Senior (65+)': 'sandybrown'}
 
 def get_countries(data, number):
     #queryset = globaldata.objects.all().values('c_id','iso3','country','pop_prob','male_ratio','median_age','sub15','sub65','senior','region')
@@ -48,11 +50,11 @@ def get_region(data, country):
     return region
 
 def create_table(country_list, data):
-    table = {'Country':[], 'Sex':[], 'Age_Range':[], 'Region':[]}
+    table = {'Country':[], 'Sex':[], 'Age Range':[], 'Region':[]}
     for country in country_list:
         table['Country'].append(country)
         table['Sex'].append(determine_sex(data, country))
-        table['Age_Range'].append(determine_age(data, country))
+        table['Age Range'].append(determine_age(data, country))
         table['Region'].append(get_region(data, country))
         table_results = pd.DataFrame(table)
 
@@ -76,6 +78,33 @@ def make_map(iso_list):
         color = 'count',
         color_continuous_scale = 'algae')
 
-    #fig_html = figure.to_html(full_html = False)
+    return figure
 
+def make_group_pie_region(table):
+    table_regions = table['Region'].value_counts(normalize = True)
+    table_regions_df = table_regions.reset_index()
+    table_regions_df.columns = ['Region', 'percent']
+    figure = px.pie(data_frame = table_regions_df, names = 'Region', values = 'percent', title = 'Regional Breakdown (Group)', hole = .5,color = 'Region', color_discrete_map = color_map)
+    return figure
+
+def make_group_pie_age(table):
+    table_ages = table['Age Range'].value_counts(normalize = True)
+    table_ages_df = table_ages.reset_index()
+    table_ages_df.columns = ['Age Range', 'percent']
+    figure = px.pie(data_frame = table_ages_df, names = 'Age Range', values = 'percent', title = 'Age Breakdown (Group)', hole = .5,color = 'Age Range', color_discrete_map = color_map2)
+    return figure
+
+def make_region_pie(data):
+    region_sum = data.groupby('region')[['pop_prob']].sum().reset_index()
+    figure = px.pie(data_frame = region_sum, names = 'region', values = 'pop_prob', title = 'Regional Breakdown (World)',color = 'region', color_discrete_map = color_map, hole = .5)
+    return figure
+
+
+
+def make_age_pie():
+    age_names = ['Child (<15)', 'Adult (16-65)', 'Senior (65+)']
+    age_values = [0.246, 0.653, 0.101]
+    ages = {'Age Range': age_names, 'Percent': age_values}
+    df = pd.DataFrame(ages)
+    figure = px.pie(data_frame = ages, names = 'Age Range', values = 'Percent', title = 'Age Breakdown (World)',color = 'Age Range', color_discrete_map = color_map2, hole = .5)
     return figure
