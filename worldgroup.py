@@ -13,7 +13,7 @@ worlddata = df(worlddata)
 
 st.set_page_config(page_title = "World Population Simulator", layout = 'wide')
 
-st.sidebar.title("WOrld Population Group Simulator")
+st.sidebar.title("World Population Group Simulator")
 group_size = st.sidebar.number_input("Enter group size:", min_value=1, value=10, step=10, max_value = 5000)
 
 if st.sidebar.button("Generate Group"):
